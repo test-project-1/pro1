@@ -77,6 +77,6 @@ export const ticketsList = [
         bookingDate: dayjs().format('DD/MM/YYYY'),
         utsNo: '',
         SAC: '996411',
-        IR: ''
+        IR: '27AAAGM0289C2ZI'
     }
 ]
